@@ -10,7 +10,7 @@ public class Fecha {
     private final int anio;
     /**
      * Esta es el constructor de la clase Fecha
-     * @param dia dia de la fecha
+     * @param dia dia de la fecha rama1
      * @param mes mes de la fecha
      * @param anio anyo de la fecha
      */
